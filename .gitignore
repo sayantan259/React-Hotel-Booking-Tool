@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 supabase.js
+CabinTable-v1.jsx
 
 # Editor directories and files
 .vscode/*
